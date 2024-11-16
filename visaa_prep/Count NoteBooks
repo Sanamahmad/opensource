@@ -1,0 +1,4 @@
+n=int(input())
+pulp=n*1000
+book=pulp//100
+print(book)
