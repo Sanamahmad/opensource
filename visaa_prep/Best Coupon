@@ -1,0 +1,5 @@
+a=int(input())
+maximum=100
+b=a*0.1
+discount=max(b,maximum)
+print(int(a-discount))
